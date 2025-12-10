@@ -1,0 +1,20 @@
+X3ZqkRC0rEpXKPM6q6mF
+商品情報API用登録-001	-	hnagacha-990	承認済み	
+商品情報API用登録-002	-	hnagacha-991	承認済み	
+商品情報API用登録-003	-	hnagacha-992	承認済み	
+商品情報API用登録-004	-	hnagacha-993	承認済み	
+商品情報API用登録-005	-	hnagacha-994	承認済み	
+商品情報API用登録-006	-	hnagacha-995	承認済み	
+商品情報API用登録-007	-	hnagacha-996	承認済み	
+商品情報API用登録-008	-	hnagacha-997	承認済み	
+商品情報API用登録-009	-	hnagacha-998	承認済み	
+
+
+<label for="api_id">API ID:</label>
+<input type="text" id="api_id" name="api_id" value="X3ZqkRC0rEpXKPM6q6mF" required>
+
+<label for="affiliate_id">アフィリエイトID:</label>
+<input type="text" id="affiliate_id" name="affiliate_id" value="hnagacha-990" required>
+
+フロアAPI
+https://api.dmm.com/affiliate/v3/FloorList?api_id=X3ZqkRC0rEpXKPM6q6mF&affiliate_id=hnagacha-990&output=json&callback=example

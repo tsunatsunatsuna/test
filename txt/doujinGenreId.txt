@@ -1,0 +1,625 @@
+{
+  "request": {
+    "parameters": {
+      "api_id": "X3ZqkRC0rEpXKPM6q6mF",
+      "affiliate_id": "hnagacha-990",
+      "floor_id": "81",
+      "output": "json"
+    }
+  },
+  "result": {
+    "status": "200",
+    "result_count": 100,
+    "total_count": "562",
+    "first_position": 1,
+    "site_name": "FANZA（アダルト）",
+    "site_code": "FANZA",
+    "service_name": "同人",
+    "service_code": "doujin",
+    "floor_id": "81",
+    "floor_name": "同人",
+    "floor_code": "digital_doujin",
+    "genre": [
+      {
+        "genre_id": "12",
+        "name": "3DCG",
+        "ruby": "3でぃーしーじー",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D12%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160024",
+        "name": "「90%還元」冬のプレミアム企画",
+        "ruby": "90ぱーせんとかんげんふゆのぷれみあむきかく",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160024%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "4118",
+        "name": "アイドル・芸能人",
+        "ruby": "あいどるげいのうじん",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D4118%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "6551",
+        "name": "iPhone・iPad対応",
+        "ruby": "あいふぉんあいぱっどたいおう",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D6551%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160052",
+        "name": "青姦",
+        "ruby": "あおかん",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160052%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160155",
+        "name": "赤ちゃんプレイ",
+        "ruby": "あかちゃんぷれい",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160155%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "156035",
+        "name": "赤ブー5月イベント",
+        "ruby": "あかぶー5がついべんと",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D156035%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160053",
+        "name": "悪堕ち",
+        "ruby": "あくおち",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160053%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "4076",
+        "name": "アクション",
+        "ruby": "あくしょん",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D4076%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "514",
+        "name": "アクション・格闘",
+        "ruby": "あくしょんかくとう",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D514%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "19",
+        "name": "アクセサリー",
+        "ruby": "あくせさりー",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D19%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160231",
+        "name": "アクセス上位ジャンル",
+        "ruby": "あくせすじょういじゃんる",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160231%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160163",
+        "name": "アクメ",
+        "ruby": "あくめ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160163%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160116",
+        "name": "悪役令嬢",
+        "ruby": "あくやくれいじょう",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160116%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "153019",
+        "name": "脚",
+        "ruby": "あし",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D153019%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160054",
+        "name": "足コキ",
+        "ruby": "あしこき",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160054%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "4127",
+        "name": "アドベンチャー",
+        "ruby": "あどべんちゃー",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D4127%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "5005",
+        "name": "アナル",
+        "ruby": "あなる",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D5005%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160115",
+        "name": "兄",
+        "ruby": "あに",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160115%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160042",
+        "name": "アヘ顔",
+        "ruby": "あへがお",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160042%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "6071",
+        "name": "アンソロジー",
+        "ruby": "あんそろじー",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D6071%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "6562",
+        "name": "Android対応",
+        "ruby": "あんどろいどたいおう",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D6562%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "154018",
+        "name": "委員長",
+        "ruby": "いいんちょう",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D154018%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160117",
+        "name": "医者",
+        "ruby": "いしゃ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160117%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "155010",
+        "name": "異種姦",
+        "ruby": "いしゅかん",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D155010%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160104",
+        "name": "異世界転生",
+        "ruby": "いせかいてんせい",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160104%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160134",
+        "name": "イチオシ",
+        "ruby": "いちおし",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160134%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160180",
+        "name": "従姉妹／いとこ",
+        "ruby": "いとこ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160180%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "72",
+        "name": "異物挿入",
+        "ruby": "いぶつそうにゅう",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D72%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "153032",
+        "name": "癒し",
+        "ruby": "いやし",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D153032%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "8",
+        "name": "イラスト・CG集",
+        "ruby": "いらすとしーじーしゅう",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D8%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "5068",
+        "name": "イラマチオ",
+        "ruby": "いらまちお",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D5068%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "155022",
+        "name": "色仕掛け",
+        "ruby": "いろじかけ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D155022%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160037",
+        "name": "陰キャ・地味",
+        "ruby": "いんきゃじみ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160037%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160043",
+        "name": "淫語",
+        "ruby": "いんご",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160043%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "154001",
+        "name": "インテリ",
+        "ruby": "いんてり",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D154001%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "154019",
+        "name": "陰毛・腋毛",
+        "ruby": "いんもうわきげ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D154019%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160039",
+        "name": "淫乱",
+        "ruby": "いんらん",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160039%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "1040",
+        "name": "ウェイトレス",
+        "ruby": "うぇいとれす",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D1040%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "153033",
+        "name": "鬱",
+        "ruby": "うつ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D153033%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160205",
+        "name": "鬱勃起",
+        "ruby": "うつぼっき",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160205%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160126",
+        "name": "裏垢女子",
+        "ruby": "うらあかじょし",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160126%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "152016",
+        "name": "浮気",
+        "ruby": "うわき",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D152016%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "300248",
+        "name": "エアコミケ2",
+        "ruby": "えあこみけ2",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D300248%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160160",
+        "name": "駅弁",
+        "ruby": "えきべん",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160160%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "4075",
+        "name": "SF",
+        "ruby": "えすえふ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D4075%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "4001",
+        "name": "SM",
+        "ruby": "えすえむ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D4001%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160207",
+        "name": "エステ",
+        "ruby": "えすて",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160207%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "154002",
+        "name": "エルフ・妖精",
+        "ruby": "えるふようせい",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D154002%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "152005",
+        "name": "遠距離恋愛",
+        "ruby": "えんきょりれんあい",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D152005%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160132",
+        "name": "AI生成",
+        "ruby": "えーあいせいせい",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160132%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160004",
+        "name": "ASMR",
+        "ruby": "えーえすえむあーる",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160004%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160118",
+        "name": "王子様・王子系",
+        "ruby": "おうじさまおうじけい",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160118%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "154003",
+        "name": "おかっぱ",
+        "ruby": "おかっぱ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D154003%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "153002",
+        "name": "オカルト",
+        "ruby": "おかると",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D153002%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "152006",
+        "name": "屋外",
+        "ruby": "おくがい",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D152006%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "1083",
+        "name": "幼なじみ",
+        "ruby": "おさななじみ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D1083%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "155001",
+        "name": "おさわり",
+        "ruby": "おさわり",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D155001%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "153004",
+        "name": "お尻・ヒップ",
+        "ruby": "おしりひっぷ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D153004%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "154030",
+        "name": "叔父・義父",
+        "ruby": "おじぎふ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D154030%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "7007",
+        "name": "お嬢様・令嬢",
+        "ruby": "おじょうさまれいじょう",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D7007%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "527",
+        "name": "お嬢様・令嬢",
+        "ruby": "おじょうさまれいじょう",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D527%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160031",
+        "name": "おすすめ",
+        "ruby": "おすすめ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160031%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160056",
+        "name": "おすすめボイス作品",
+        "ruby": "おすすめぼいすさくひん",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160056%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160007",
+        "name": "襲い受",
+        "ruby": "おそいうけ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160007%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "153003",
+        "name": "おっぱい",
+        "ruby": "おっぱい",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D153003%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160219",
+        "name": "雄っぱい",
+        "ruby": "おっぱい",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160219%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160119",
+        "name": "弟",
+        "ruby": "おとうと",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160119%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "153027",
+        "name": "男無",
+        "ruby": "おとこなし",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D153027%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160172",
+        "name": "男の潮吹き",
+        "ruby": "おとこのしおふき",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160172%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "155011",
+        "name": "乙女受け",
+        "ruby": "おとめうけ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D155011%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160026",
+        "name": "乙女向け",
+        "ruby": "おとめむけ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160026%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160055",
+        "name": "オナサポ",
+        "ruby": "おなさぽ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160055%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "5008",
+        "name": "オナニー",
+        "ruby": "おなにー",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D5008%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160176",
+        "name": "オネエ",
+        "ruby": "おねぇ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160176%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "528",
+        "name": "お姫様",
+        "ruby": "おひめさま",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D528%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "152001",
+        "name": "オフィス・職場",
+        "ruby": "おふぃすしょくば",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D152001%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160099",
+        "name": "オホ声",
+        "ruby": "おほごえ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160099%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "151001",
+        "name": "おむつ",
+        "ruby": "おむつ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D151001%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160003",
+        "name": "オメガバース",
+        "ruby": "おめがばーす",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160003%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "5017",
+        "name": "おもちゃ",
+        "ruby": "おもちゃ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D5017%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "155002",
+        "name": "おもらし",
+        "ruby": "おもらし",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D155002%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160070",
+        "name": "おやじ",
+        "ruby": "おやじ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160070%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "155003",
+        "name": "オヤジ受け",
+        "ruby": "おやじうけ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D155003%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "155012",
+        "name": "俺様攻め",
+        "ruby": "おれさまぜめ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D155012%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "15",
+        "name": "音声付き",
+        "ruby": "おんせいつき",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D15%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160221",
+        "name": "温泉・銭湯・お風呂",
+        "ruby": "おんせんせんとうおふろ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160221%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "1016",
+        "name": "女教師",
+        "ruby": "おんなきょうし",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D1016%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "153023",
+        "name": "女主人公のみ",
+        "ruby": "おんなしゅじんこうのみ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D153023%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "1001",
+        "name": "OL",
+        "ruby": "おーえる",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D1001%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "153001",
+        "name": "オールハッピー",
+        "ruby": "おーるはっぴー",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D153001%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160146",
+        "name": "快楽堕ち",
+        "ruby": "かいらくおち",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160146%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160167",
+        "name": "カウントダウン",
+        "ruby": "かうんとだうん",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160167%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "155013",
+        "name": "拡張",
+        "ruby": "かくちょう",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D155013%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "152007",
+        "name": "家族",
+        "ruby": "かぞく",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D152007%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "151004",
+        "name": "カチューシャ",
+        "ruby": "かちゅーしゃ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D151004%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "154021",
+        "name": "褐色・日焼け",
+        "ruby": "かっしょくひやけ",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D154021%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160195",
+        "name": "壁尻",
+        "ruby": "かべしり",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160195%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "160208",
+        "name": "感覚遮断",
+        "ruby": "かんかくしゃだん",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D160208%2F&af_id=hnagacha-990&ch=api"
+      },
+      {
+        "genre_id": "5010",
+        "name": "監禁",
+        "ruby": "かんきん",
+        "list_url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Flist%2F%3D%2Farticle%3Dkeyword%2Fid%3D5010%2F&af_id=hnagacha-990&ch=api"
+      }
+    ]
+  }
+}

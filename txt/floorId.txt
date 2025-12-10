@@ -1,0 +1,439 @@
+DMM.com（一般）
+CODE: DMM.com
+
+NAME: AKB48グループ
+
+CODE: lod
+
+---FloorName: AKB48
+
+---FloorCode: akb48
+
+---FloorId: 1
+
+---FloorName: SKE48
+
+---FloorCode: ske48
+
+---FloorId: 2
+
+---FloorName: NMB48
+
+---FloorCode: nmb48
+
+---FloorId: 3
+
+---FloorName: HKT48
+
+---FloorCode: hkt48
+
+---FloorId: 4
+
+---FloorName: NGT48
+
+---FloorCode: ngt48
+
+---FloorId: 5
+
+---FloorName: REVIVAL!! ON DEMAND
+
+---FloorCode: rod
+
+---FloorId: 6
+
+---FloorName: STU48
+
+---FloorCode: stu48
+
+---FloorId: 93
+
+NAME: DMMブックス
+
+CODE: ebook
+
+---FloorName: コミック
+
+---FloorCode: comic
+
+---FloorId: 19
+
+---FloorName: 写真集
+
+---FloorCode: photo
+
+---FloorId: 20
+
+---FloorName: 文芸・ラノベ
+
+---FloorCode: novel
+
+---FloorId: 21
+
+---FloorName: ビジネス・実用
+
+---FloorCode: otherbooks
+
+---FloorId: 22
+
+NAME: PCゲーム/ソフトウェア
+
+CODE: pcsoft
+
+---FloorName: PCゲーム
+
+---FloorCode: digital_pcgame
+
+---FloorId: 23
+
+---FloorName: ソフトウェア
+
+---FloorCode: digital_pcsoft
+
+---FloorId: 24
+
+NAME: 通販
+
+CODE: mono
+
+---FloorName: DVD・Blu-ray
+
+---FloorCode: dvd
+
+---FloorId: 25
+
+---FloorName: CD
+
+---FloorCode: cd
+
+---FloorId: 26
+
+---FloorName: 本・コミック
+
+---FloorCode: book
+
+---FloorId: 27
+
+---FloorName: ホビー
+
+---FloorCode: hobby
+
+---FloorId: 29
+
+---FloorName: 家電・日用品
+
+---FloorCode: kaden
+
+---FloorId: 30
+
+NAME: DMM 宅配レンタル
+
+CODE: rental
+
+---FloorName: 月額DVDレンタル
+
+---FloorCode: rental_dvd
+
+---FloorId: 33
+
+---FloorName: 月額CDレンタル
+
+---FloorCode: rental_cd
+
+---FloorId: 34
+
+---FloorName: 単品DVDレンタル
+
+---FloorCode: ppr_dvd
+
+---FloorId: 35
+
+---FloorName: 単品CDレンタル
+
+---FloorCode: ppr_cd
+
+---FloorId: 36
+
+---FloorName: コミック
+
+---FloorCode: rental_comic
+
+---FloorId: 39
+
+NAME: DMMTV
+
+CODE: dmmtv
+
+---FloorName: DMMTV
+
+---FloorCode: dmmtv_video
+
+---FloorId: 95
+
+FANZA（アダルト）
+CODE: FANZA
+
+NAME: 動画
+
+CODE: digital
+
+---FloorName: ビデオ
+
+---FloorCode: videoa
+
+---FloorId: 43
+
+---FloorName: 素人
+
+---FloorCode: videoc
+
+---FloorId: 44
+
+---FloorName: 成人映画
+
+---FloorCode: nikkatsu
+
+---FloorId: 45
+
+---FloorName: アニメ動画
+
+---FloorCode: anime
+
+---FloorId: 46
+
+NAME: 月額動画
+
+CODE: monthly
+
+---FloorName: プレイガール ch.
+
+---FloorCode: playgirl
+
+---FloorId: 47
+
+---FloorName: AVステーション
+
+---FloorCode: avstation
+
+---FloorId: 48
+
+---FloorName: ドリームチャンネル
+
+---FloorCode: dream
+
+---FloorId: 49
+
+---FloorName: エスワン ナンバーワンスタイル ch
+
+---FloorCode: s1
+
+---FloorId: 50
+
+---FloorName: MOODYZチャンネル
+
+---FloorCode: moodyz
+
+---FloorId: 51
+
+---FloorName: ソフト・オン・デマンド ch
+
+---FloorCode: sod
+
+---FloorId: 52
+
+---FloorName: KMP チャンネル
+
+---FloorCode: kmp
+
+---FloorId: 54
+
+---FloorName: 桃太郎BB
+
+---FloorCode: momotaroubb
+
+---FloorId: 55
+
+---FloorName: アリスJAPAN ch
+
+---FloorCode: alice
+
+---FloorId: 56
+
+---FloorName: 熟女チャンネル
+
+---FloorCode: jukujo
+
+---FloorId: 60
+
+---FloorName: マニア ch
+
+---FloorCode: mania
+
+---FloorId: 61
+
+---FloorName: パラダイステレビ ch
+
+---FloorCode: paradisetv
+
+---FloorId: 62
+
+---FloorName: 素人ガールズコレクション
+
+---FloorCode: shirouto
+
+---FloorId: 63
+
+---FloorName: ピンク映画 ch
+
+---FloorCode: nikkatsu
+
+---FloorId: 64
+
+---FloorName: アダルトアニメチャンネル
+
+---FloorCode: animech
+
+---FloorId: 65
+
+---FloorName: 妄想族ch
+
+---FloorCode: mousouzoku
+
+---FloorId: 66
+
+---FloorName: 見放題ch デラックス
+
+---FloorCode: premium
+
+---FloorId: 68
+
+---FloorName: HHHch
+
+---FloorCode: hhh
+
+---FloorId: 87
+
+---FloorName: VRch
+
+---FloorCode: vr
+
+---FloorId: 91
+
+NAME: FANZA 宅配レンタル
+
+CODE: rental
+
+---FloorName: 月額レンタル
+
+---FloorCode: rental_dvd
+
+---FloorId: 71
+
+---FloorName: 単品レンタル
+
+---FloorCode: ppr_dvd
+
+---FloorId: 72
+
+NAME: 通販
+
+CODE: mono
+
+---FloorName: DVD
+
+---FloorCode: dvd
+
+---FloorId: 74
+
+---FloorName: 大人のおもちゃ
+
+---FloorCode: goods
+
+---FloorId: 75
+
+---FloorName: アニメ
+
+---FloorCode: anime
+
+---FloorId: 76
+
+---FloorName: PCゲーム
+
+---FloorCode: pcgame
+
+---FloorId: 77
+
+---FloorName: ブック
+
+---FloorCode: book
+
+---FloorId: 78
+
+---FloorName: 同人
+
+---FloorCode: doujin
+
+---FloorId: 79
+
+---FloorName: フィギュア・グッズ
+
+---FloorCode: figure
+
+---FloorId: 94
+
+NAME: アダルトPCゲーム
+
+CODE: pcgame
+
+---FloorName: アダルトPCゲーム
+
+---FloorCode: digital_pcgame
+
+---FloorId: 80
+
+---FloorName: 音楽
+
+---FloorCode: pcgame_music
+
+---FloorId: 89
+
+NAME: 同人
+
+CODE: doujin
+
+---FloorName: 同人
+
+---FloorCode: digital_doujin
+
+---FloorId: 81
+
+NAME: FANZAブックス
+
+CODE: ebook
+
+---FloorName: コミック
+
+---FloorCode: comic
+
+---FloorId: 82
+
+---FloorName: 美少女ノベル・官能小説
+
+---FloorCode: novel
+
+---FloorId: 83
+
+---FloorName: アダルト写真集・雑誌
+
+---FloorCode: photo
+
+---FloorId: 84
+
+NAME: FANZAブックス読み放題
+
+CODE: unlimited_book
+
+---FloorName: FANZAブックス読み放題
+
+---FloorCode: unlimited_comic
+
+---FloorId: 92

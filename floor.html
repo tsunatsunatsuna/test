@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DMM API Floor List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="top-bar">
+        <div class="search-icon" id="searchIcon">◉</div>
+        <h1>フロアリスト</h1>
+        <div class="hamburger-menu" id="hamburgerMenu">&#9776;</div>
+    </div>
+
+    <div class="form-container" id="formContainer">
+        <form id="apiForm"></form>
+        <form id="apiForm2"></form>
+        <form id="apiForm3">
+            <input type="hidden" id="api_id" name="api_id" value="X3ZqkRC0rEpXKPM6q6mF" required>
+            <input type="hidden" id="affiliate_id" name="affiliate_id" value="hnagacha-990" required>
+            <button type="submit">取得</button>
+        </form>
+
+        <button id="downloadButton">結果をダウンロード</button>
+        <!-- イベントリスナー対策 -->
+        <div id="htmlDownloadButton"></div>
+    </div>
+
+    <div id="results" class="results-container"></div>
+
+    <div class="menu-container" id="menuContainer">
+        <ul>
+            <li><a href="syohinSerch.html">商品検索</a></li>
+            <li><a href="joyuSerch.html">女優検索</a></li>
+            <li><a href="#">リンク3</a></li>
+        </ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

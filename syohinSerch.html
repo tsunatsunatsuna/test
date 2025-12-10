@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DMM API リクエスト</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="top-bar">
+        <div class="search-icon" id="searchIcon">◉</div>
+        <h1>商品検索</h1>
+        <div class="hamburger-menu" id="hamburgerMenu">&#9776;</div>
+    </div>
+
+    <div class="form-container" id="formContainer">
+        <!-- <button class="close-button" id="closeButton">&times;</button> -->
+        <form id="apiForm2"></form>
+        <form id="apiForm3"></form>
+        <form id="apiForm">
+            <!-- 固定値 -->
+            <!-- <label for="api_id">API ID:</label> -->
+            <input type="hidden" id="api_id" name="api_id" value="X3ZqkRC0rEpXKPM6q6mF" required>
+            
+            <!-- 固定値 -->
+            <!-- <label for="affiliate_id">アフィリエイトID:</label> -->
+            <input type="hidden" id="affiliate_id" name="affiliate_id" value="hnagacha-990" required>
+            
+            <!-- 固定値：FANZA -->
+            <!-- <label for="site">サイト:</label> -->
+            <select type="hidden" id="site" name="site" required>
+                <option value="FANZA">FANZA</option>
+                <!-- <option value="DMM.com">一般（DMM.com）</option> -->
+            </select>
+
+            <label for="service">サービス:</label>
+            <select id="service" name="service">
+                <option value="digital">動画</option>
+                <option value="pcgame">アダルトPCゲーム</option>
+                <option value="doujin">同人</option>
+                <option value="ebook">商業誌</option>
+                <option value="">絞り込みなし</option>
+            </select>
+
+            <label for="floor">フロア:</label>
+            <select id="floor" name="floor" name="floor" >
+                <!-- 動的に生成される選択肢 -->
+            </select>
+
+            <!-- 固定値：100 -->
+            <!-- <label for="hits">取得件数:</label> -->
+            <input type="hidden" id="hits" name="hits" value="100" min="1" max="100">
+
+            <label for="sort">ソート順:</label>
+            <select id="sort" name="sort">
+                <option value="rank">人気</option>
+                <option value="price">価格が高い順</option>
+                <option value="-price">価格が安い順</option>
+                <option value="date">新着</option>
+                <option value="review">評価</option>
+                <option value="match">マッチング順</option>
+            </select>
+
+            <label for="keyword">キーワード:</label>
+            <input type="text" id="keyword" name="keyword" value="">
+
+            <!-- パラメータ不要 -->
+            <label for="article">絞り込み項目:</label>
+            <!-- <input type="text" id="article" name="article" placeholder="actress,author"> -->
+            <!-- <div id="articleOptions">
+                <input type="checkbox" id="actressCheckbox" name="article[]" value="actress">
+                <label for="actressCheckbox">女優</label>
+                <input type="checkbox" id="authorCheckbox" name="article[]" value="author">
+                <label for="authorCheckbox">作者</label>
+                <input type="checkbox" id="genreCheckbox" name="article[]" value="genre">
+                <label for="genreCheckbox">ジャンル</label>
+                <input type="checkbox" id="seriesCheckbox" name="article[]" value="series">
+                <label for="seriesCheckbox">シリーズ</label> 
+                <input type="checkbox" id="makerCheckbox" name="article[]" value="maker">
+                <label for="makerCheckbox">メーカー</label>
+            </div> -->
+
+            <div id="articleOptions">
+              <div class="checkbox-container">
+                <input type="checkbox" id="actressCheckbox" name="article[0]" value="actress">
+                <label for="actressCheckbox">女優</label>
+              </div>
+              <div class="checkbox-container">
+                <input type="checkbox" id="authorCheckbox" name="article" value="author">
+                <label for="authorCheckbox">作者</label>
+              </div>
+              <div class="checkbox-container">
+                <input type="checkbox" id="genreCheckbox" name="article" value="genre">
+                <label for="genreCheckbox">ジャンル</label>
+              </div>
+              <div class="checkbox-container">
+                <input type="checkbox" id="seriesCheckbox" name="article" value="series">
+                <label for="seriesCheckbox">シリーズ</label>
+              </div>
+              <div class="checkbox-container">
+                <input type="checkbox" id="makerCheckbox" name="article" value="maker">
+                <label for="makerCheckbox">メーカー</label>
+              </div>
+            </div>
+
+            <!-- 変更して実行したい可能性あり -->
+            <label for="article_id">絞り込みID:</label>
+            <input id="article_id" name="article_id" placeholder="1011199">
+
+            <label for="gte_date">発売日絞り込み（以降）:</label>
+            <input type="date" id="gte_date" name="gte_date">
+
+            <label for="lte_date">発売日絞り込み（以前）:</label>
+            <input type="date" id="lte_date" name="lte_date">
+
+            <label for="mono_stock">在庫絞り込み:</label>
+            <select id="mono_stock" name="mono_stock">
+                <option value="">絞り込みなし</option>
+                <option value="stock">在庫あり</option>
+                <option value="reserve">予約商品（在庫あり）</option>
+                <option value="reserve_empty">予約商品（キャンセル待ち）</option>
+                <option value="mono">DMM通販のみ</option>
+                <option value="dmp">マーケットプレイスのみ</option>
+            </select>
+
+            <button type="submit">送信</button>
+        </form>
+
+        <button id="downloadButton">ダウンロード</button>
+        <button id="htmlDownloadButton">ダウンロード_HTML</button>
+        <button id="titleDownloadButton">ダウンロード_HTML</button>
+    </div>
+
+    <div id="results" class="results-container"></div>
+
+    <div class="menu-container" id="menuContainer">
+        <!-- <button class="menu-close-button" id="menuCloseButton">&times;</button> -->
+        <ul>
+            <li><a href="syohinSerch.html">商品検索</a></li>
+            <li><a href="joyuSerch.html">女優検索</a></li>
+            <li><a href="#">リンク3</a></li>
+        </ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,199 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  background-color: #333;
+  color: white;
+  padding: 0 0;
+  margin: 0;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+h3 {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+img {
+  width: 100%;
+}
+
+.top-bar {
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #333;
+  text-align: center;
+  align-items: center;
+}
+.top-bar .topbar-left {
+  width: 60px;
+  color: white;
+  font-size: 30px;
+}
+.top-bar .topbar-right {
+  width: 60px;
+  color: white;
+  text-align: end;
+}
+
+.results-container {
+  position: absolute;
+  top: 0;
+  margin-top: 60px;
+  padding: 30px;
+  background-color: rgba(255, 255, 255, 0);
+  z-index: -50;
+}
+.results-container .item {
+  margin-bottom: 20px;
+  display: flex;
+  flex-flow: column;
+}
+.results-container .item img {
+  max-width: 100%;
+}
+
+.form-container {
+  position: absolute;
+  z-index: -10;
+  left: -100%;
+  top: 0;
+  width: 70%;
+  height: 100%;
+  margin-top: 60px;
+  padding: 30px;
+  background-color: white;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+  transition: left 0.5s ease-in-out;
+}
+.form-container.open {
+  left: 0;
+}
+.form-container form {
+  display: flex;
+  flex-direction: column;
+}
+.form-container label {
+  margin-top: 10px;
+  font-weight: bold;
+}
+.form-container input, .form-container select, .form-container button {
+  margin-top: 5px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.form-container input[type=checkbox] {
+  width: auto;
+  margin-top: 0;
+}
+.form-container .checkbox-container {
+  display: flex;
+  align-items: center;
+}
+.form-container .checkbox-container label {
+  margin-left: 5px;
+}
+.form-container .checkbox-container button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.form-container .checkbox-container button:hover {
+  background-color: #0056b3;
+}
+.form-container button {
+  margin-top: 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.form-container button:hover {
+  background-color: #218838;
+}
+.form-container #downloadButton,
+.form-container #htmlDownloadButton,
+.form-container #titleDownloadButton {
+  background-color: #6c757d;
+}
+.form-container #downloadButton:hover,
+.form-container #htmlDownloadButton:hover,
+.form-container #titleDownloadButton:hover {
+  background-color: #5a6268;
+}
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+.modal .modal-content {
+  background-color: #fefefe;
+  margin: 5% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+  border-radius: 10px;
+}
+.modal .close-button {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+.modal .close-button:hover, .modal .close-button:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+.modal form {
+  display: flex;
+  flex-direction: column;
+}
+.modal form label {
+  margin-top: 10px;
+  font-weight: bold;
+}
+.modal form input, .modal form select, .modal form button {
+  margin-top: 5px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.modal form button {
+  margin-top: 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.modal form button:hover {
+  background-color: #218838;
+}/*# sourceMappingURL=styles.css.map */
